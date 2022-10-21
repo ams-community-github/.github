@@ -1,0 +1,13 @@
+{
+    "name": "AMS Organization Workflow",
+    "description": "AMS Organization CI starter workflow.",
+    "iconName": "icon",
+    "categories": [
+        "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.ts$"
+    ]
+}
